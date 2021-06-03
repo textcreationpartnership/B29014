@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Robin Hood and the beggar. Shewing; how Robin Hood and the beggar fought, and how he changed clothes with the beggar, and how he went a begging to Nottingham, and how he saved three brethren from being hang'd for stealing of deer. To the tune of, Robin Hood and the stranger.</title>
+            <author>Robins, Thomas, fl. 1672-1685.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29014</idno><idno type="EEBO-CITATION">48200851</idno>
+  <idno type="VID">207306</idno>
+  <idno type="EEBO-PROQUEST">2240889433</idno>
+  
+            <idno type="STC">Wing R1657A</idno>
+            <idno type="OCLC">48200851</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207306)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2056:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Robin Hood and the beggar. Shewing; how Robin Hood and the beggar fought, and how he changed clothes with the beggar, and how he went a begging to Nottingham, and how he saved three brethren from being hang'd for stealing of deer. To the tune of, Robin Hood and the stranger.</title>
+                  <author>Robins, Thomas, fl. 1672-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Grove ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[c. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 1 illustration.</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>Imperfect: faded, with loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:207306:1"/>
+            <head>
+               <hi>Robin Hood</hi> and the <hi>Beggar.</hi>
+            </head>
+            <argument>
+               <p>
+                  <hi>SHEWING;</hi> How <hi>Robin Hood</hi> and the <hi>Beggar</hi> fought, and how he changed Clothes with the <hi>Beggar,</hi> and how he went a begging to <hi>Nottingh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m?</hi> and how he saved three Brethren from being hang'd for stealing of <hi>Deer.</hi>
+               </p>
+            </argument>
+            <opener>To the tune of, <hi>Robin Hood and the Str<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>depiction, probably of various scenes from the adventures of Robin Hood</figDesc>
+               </figure>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>COme light and listen you Gentlemen all,</l>
+                  <l>
+                     <hi>hey down, down, an a down,</hi>
+                  </l>
+                  <l>That mirth do love for to hear,</l>
+                  <l>and a story true, Ile tell unto you,</l>
+                  <l>If that you will but draw near.</l>
+               </lg>
+               <lg>
+                  <l>In elder times when merriment was,</l>
+                  <l>
+                     <hi>hey down, &amp;c,</hi>
+                  </l>
+                  <l>And Archrey was holden good,</l>
+                  <l>there was an Out-law, a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> many did know,</l>
+                  <l>Which Men called <hi>Robin Hood.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Vpon a time it chanced so</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>Bold <hi>Robin</hi> was m<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rry disposed,</l>
+                  <l>his time to spend he did intend,</l>
+                  <l>Either with Friend or Foe:</l>
+               </lg>
+               <lg>
+                  <l>Then he got vp on a gallant brave Stéed,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>The which was worth angell ten,</l>
+                  <l>with a Mantle of gréen, most brave to be séen,</l>
+                  <l>He left all his merry-man.</l>
+               </lg>
+               <lg>
+                  <l>And riding towards fair <hi>Nottingham,</hi>
+                  </l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>Some pastime for to spy,</l>
+                  <l>there was he aware af a jolly Beggar</l>
+                  <l>As <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re he beheld with his eye.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> patcht Coat the Beggar had one,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>Which he daily did vse for to wear,</l>
+                  <l>and many a b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g, about him did wag;</l>
+                  <l>Which made <hi>Robin Hood</hi> to him repair.</l>
+               </lg>
+               <lg>
+                  <l>God-spéed God-spéed, said <hi>Robin Hood,</hi>
+                  </l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>What Country-man tell to me.</l>
+                  <l>I am <hi>Yorkeshire</hi> sir, but ere you go far,</l>
+                  <l>Some Charity give vnto me.</l>
+               </lg>
+               <lg>
+                  <l>Why what wouldst thou have said <hi>Robin Hood</hi>
+                  </l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>I pray thée tell vnto me.</l>
+                  <l>no Lands, nor Livings, the Beggar he said,</l>
+                  <l>But a penny for charitie.</l>
+               </lg>
+               <lg>
+                  <l>I have no money, said <hi>Robin Hood</hi> then,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>But a Ranger within the Wood:</l>
+                  <l>I am an Out-law, as many do know,</l>
+                  <l>My name it is <hi>Robin Hood,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But yet I must t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll the bonny Beggar,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>That a bout with I must try:</l>
+                  <l>thy Coat of Gray, lay down I say,</l>
+                  <l>And my Mantle of Gréen shall lye by▪</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:207306:1"/>
+               <head>The second part,</head>
+               <opener>to the same tune:</opener>
+               <lg>
+                  <l>COntent, content, the Beggar he cry'd,</l>
+                  <l>
+                     <hi>hey down, down, an a down,</hi>
+                  </l>
+                  <l>Thy part it will be the worse,</l>
+                  <l>for I hope this bout to give thée the rout,</l>
+                  <l>And then have at thy Purse.</l>
+               </lg>
+               <lg>
+                  <l>The Beggar he had a mickle long Saffe,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>And <hi>Robin</hi> had a Nut-brown Sword,</l>
+                  <l>so the Beggar drew nigh, and at <hi>Robin</hi> let fly,</l>
+                  <l>But gave him never a word.</l>
+               </lg>
+               <lg>
+                  <l>Fight on, fight on, said <hi>Robin Hood</hi> then,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>This Game well pleaseth me:</l>
+                  <l>for every blow that <hi>Robin</hi> did give,</l>
+                  <l>The Beggar gave buffets thrée.</l>
+               </lg>
+               <lg>
+                  <l>And fighting there full hard and sore,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>Not far from <hi>Nottingham</hi> Town,</l>
+                  <l>they never fled, till from <hi>Robin</hi> head</l>
+                  <l>The blood came trickling down.</l>
+               </lg>
+               <lg>
+                  <l>O hold thy hand said <hi>Robin Hood</hi> then,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>And thou and I will agrée:</l>
+                  <l>if that be true, the Beggar he said</l>
+                  <l>Thy Mantle come give vnto me.</l>
+               </lg>
+               <lg>
+                  <l>Nay, a change, a change, cri'd <hi>Robin Hood</hi>
+                  </l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>Thy Bags and Coat give me,</l>
+                  <l>and this Mantle of mine, Ile to thée resign,</l>
+                  <l>My Horse and my braverie.</l>
+               </lg>
+               <lg>
+                  <l>When <hi>Robin</hi> had got the Beggars Clothes,</l>
+                  <l>
+                     <hi>hey down &amp;c.</hi>
+                  </l>
+                  <l>He looked round about,</l>
+                  <l>Methinks, said he, I séem to be</l>
+                  <l>A Beggar brave and stout.</l>
+               </lg>
+               <lg>
+                  <l>For now I have a bag for my Bread,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>So have I another for Corn,</l>
+                  <l>I have one for Suit, another for Malt,</l>
+                  <l>And one for my little Horn.</l>
+               </lg>
+               <lg>
+                  <l>And now I will a begging goe</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>Some charitie for to find.</l>
+                  <l>and if any more of <hi>Robin</hi> you'l know,</l>
+                  <l>In this second Part it's behind.</l>
+               </lg>
+               <lg>
+                  <l>NOw <hi>Robin</hi> he is to <hi>Nottingham</hi> bound,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>With his bags hanging down to his knée,</l>
+                  <l>his staff &amp; his coat, scarce worth a groat</l>
+                  <l>Yet merrilie passed he,</l>
+               </lg>
+               <lg>
+                  <l>As <hi>Robin</hi> he passed the Stréets along,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>he heard a pittifull cry,</l>
+                  <l>thrée Brethred déer, as he did hear,</l>
+                  <l>Condemned were to dye.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Robin</hi> he highed to the Sheriffs,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>Some Reliefe for to séek,</l>
+                  <l>he skipt, and leapt, and capored full high,</l>
+                  <l>As he went along the stréet.</l>
+               </lg>
+               <lg>
+                  <l>But when to the Sheriffs doore he came.</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>There a Gentleman fine and brave,</l>
+                  <l>thou Beggar, said he, come tell vnto me</l>
+                  <l>What is it that thou wouldest have.</l>
+               </lg>
+               <lg>
+                  <l>No meat nor drink, said <hi>Robin Hood</hi> then,</l>
+                  <l>
+                     <hi>hey pown, &amp;c.</hi>
+                  </l>
+                  <l>That I come here to crave,</l>
+                  <l>but to beg the lives of Yeomen thrée,</l>
+                  <l>And that I fain would have.</l>
+               </lg>
+               <lg>
+                  <l>That cannot be, thou bold Beggar,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>Their Fact it is so cléer;</l>
+                  <l>I tell to thée, hang'd they must be</l>
+                  <l>For stealing of our Kings Déer.</l>
+               </lg>
+               <lg>
+                  <l>But when to the Gallows they did come,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>There was many a wéeping eye</l>
+                  <l>O hold your peace, said <hi>Robin</hi> then,</l>
+                  <l>For certainly they shall not dye.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Robin</hi> he set his Horn to his mouth,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>And blew but blastes thrée,</l>
+                  <l>till a hundred bold Archers brave,</l>
+                  <l>Came knéeling dow to his knée.</l>
+               </lg>
+               <lg>
+                  <l>What is your will Master, they said,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>We are here at your command.</l>
+                  <l>shoot East, shoot West, said <hi>Robin</hi> then,</l>
+                  <l>And look that you spare no man.</l>
+               </lg>
+               <lg>
+                  <l>Then they shot East, and they shot West,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>Their arrows were so kéen;</l>
+                  <l>the Sheriffe he, and his companie,</l>
+                  <l>No longer must be séen.</l>
+               </lg>
+               <lg>
+                  <l>Then he stept to these Brethren thrée.</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>And away he had them tane,</l>
+                  <l>but the Sheriff was crost &amp; many a man lost,</l>
+                  <l>That dead lay on the Plain.</l>
+               </lg>
+               <lg>
+                  <l>&amp; away they went into the merry gréen-wood,</l>
+                  <l>
+                     <hi>hey down, &amp;c.</hi>
+                  </l>
+                  <l>And sung with a merry glée,</l>
+                  <l>and <hi>Robin</hi> took these Brethren good,</l>
+                  <l>To be of his Yomandriée.</l>
+               </lg>
+            </div>
+            <closer>
+               <signed>T.R.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Francis Grove, <hi>on</hi> Snow-hill. Entered according Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
